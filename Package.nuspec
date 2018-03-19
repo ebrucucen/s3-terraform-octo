@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>S3WineBucket</id>
+    <version>1.0.0</version>
+    <authors>ECucen</authors>
+    <owners>ECucen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Buckets to hold assets</description>
+    <releaseNotes>Initial draft in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>UK Cloud Infra Demo</tags>
+  </metadata>
+    <files>
+    <file src="AWS_S3.tf" target="." />
+    <file src="img/" target="." />
+  </files>
+</package>
